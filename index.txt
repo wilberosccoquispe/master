@@ -1,4 +1,6 @@
 hola mundo 
 esto fue agregado ddespues de commit
-
-esto fue agregado depues de la primera rama
+lista de amigos 
+1. pepe
+2. lucho
+3. juan
